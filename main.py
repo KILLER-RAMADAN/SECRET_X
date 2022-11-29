@@ -7,4 +7,4 @@ kfjf
 
 print("hello")
 print("ahmed ramadan")
-print()
+print("hello")
