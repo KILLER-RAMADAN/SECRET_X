@@ -66,7 +66,7 @@ for i in list_body:
     list.append(i.strip())
 print(list)
 f.close()
-
+()
 
 # another solving for question 3
 
