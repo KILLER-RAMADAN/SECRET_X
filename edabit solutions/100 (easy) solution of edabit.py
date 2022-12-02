@@ -68,3 +68,14 @@
 #    convert=minutes*60
 #    return convert
 #print(convert())
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#def football_points():
+#    wins=int(input("enter wins:"))
+#    draws = int(input("enter draws:"))
+#    losses = int(input("enter losses:"))
+#    a=wins*3
+#   b=draws*1
+#    c=losses*0
+#    d=a+b+c
+#    return (d)
+#print(football_points())
