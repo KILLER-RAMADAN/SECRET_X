@@ -102,4 +102,34 @@
 #    a=age*365
 #    return a
 # print(calc_age())
-# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>16
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>16(find the missing character )
+#import string
+#a = string.ascii_lowercase
+#string = str(input("enter string:"))
+#for i in a:
+#    if i not in string:
+#        print(f"[{i}] is_missing_kay")
+#else:
+#    print("all missing letters is found...")
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>17 ( another solving to find the missing character)
+#import string
+#def find_missing_letter_in(givin_letter):
+# alpha = string.ascii_lowercase
+# start = alpha.index(givin_letter[0])
+# for l in alpha[start:]:
+#     if l not in givin_letter:
+#         return l
+#print(find_missing_letter_in("abcdefgi"))
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>18 (reverse numbers)
+#import string
+#list = []
+#digit =str(input("enter numbers:/"))
+# for i in digit:
+#    list.append(i)
+# print(list[::-1])
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>19(another solving of reverse numbers)
+# def convert():
+#   numbers=int(input("enter numbers:"))
+#   return [int(num) for num in str(numbers)[::-1]]
+# print(convert())
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>20
