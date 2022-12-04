@@ -1,1 +1,2 @@
 print("new line")
+print()
