@@ -132,4 +132,13 @@
 #   numbers=int(input("enter numbers:"))
 #   return [int(num) for num in str(numbers)[::-1]]
 # print(convert())
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>20
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>20(remove index from string)
+# def modify_string():
+#    character = str(input(">>>please insert string:".upper()).strip())
+#    num = int(input("enter your index to remove from your string:".upper()))
+#    s = character[: num]  # we make slicing from (0 to num)
+#    # then increased the num by (1) because the character not include the end in num..
+#    i = character[num + 1:]
+#    return s + i  # then return s & i and concatenate them.
+# print(modify_string())
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>21
