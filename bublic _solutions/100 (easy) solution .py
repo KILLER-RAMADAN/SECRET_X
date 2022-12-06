@@ -142,3 +142,51 @@
 #    return s + i  # then return s & i and concatenate them.
 # print(modify_string())
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>21
+#import string
+#a = string.ascii_lowercase
+# number = { 1111111111:"Amal",
+#         2222222222:"Mohamed",
+#         3333333333:"Khadija",
+# #        4444444444:"Abdullah",
+#         5555555555:"Rawan" ,
+#         6666666666:"Faisel",
+#         8888888888: "Layla"}
+#choose = int(input("enter number of member: "))
+# base=10
+# if len(str(choose)) < base or len(str(choose)) >base  or  type(choose) == a:
+#    print("this is invalid number")
+# elif choose == 1111111111:
+#    print(f"her name is :[{number[1111111111]}] and her number is:+20({choose})")
+# elif choose == 2222222222:
+#   print(f"his name is :[{number[2222222222]}] and his number is :+20({choose})")
+# elif choose == 3333333333:
+#    print(f"her name is :[{number[3333333333]}] and her number is :+20({choose})")
+# elif choose == 4444444444:
+#    print(f"his name is :[{number[4444444444]}] and his number is :+20({choose})")
+# elif choose == 5555555555:
+#    print(f"her name is :[{number[5555555555]}] and her number is :+20({choose})")
+# elif choose == 6666666666:
+#     print(f"his name is :[{number[6666666666]}] and his number is :+20({choose})")
+# elif choose == 8888888888:
+#    print(f"her name is :[{number[8888888888]}] and hher number is :+20({choose})")
+# else:
+#    print("sory, the number is not found")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(another solve of 21)
+#import string
+# a=string.ascii_lowercase
+#choose = int(input("enter number of member: "))
+# base=10
+# number={2222222222: "Mohamed",
+#        3333333333: "Khadija",
+#        4444444444: "Abdullah",
+#       5555555555: "Rawan",
+#       6666666666: "Faisel",
+#        8888888888: "Layla"}
+# if len(str(choose)) < base or len(str(choose)) > base :
+#    print("this is invalid number")
+# for chiledkey, bigvalue in number.items():
+# if choose==chiledkey:
+#   print(f"{bigvalue}")#
+# else:
+# print("thanks for using our program")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(22)

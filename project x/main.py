@@ -1,2 +1,3 @@
-print("new line")
-print(    )
+print() 
+
+    
