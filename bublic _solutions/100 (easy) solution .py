@@ -189,4 +189,8 @@
 #   print(f"{bigvalue}")#
 # else:
 # print("thanks for using our program")
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(22)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(22>>we use enumerate function)
+#a = str(input("enter string:").replace(" ", "").strip())
+#for count, i in enumerate(a):
+#print(f"index[{count}]<<>> {i}", end=" // ")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(23)
