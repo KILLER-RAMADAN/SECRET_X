@@ -194,3 +194,38 @@
 #for count, i in enumerate(a):
 #print(f"index[{count}]<<>> {i}", end=" // ")
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(23)
+#input = int(input("enter num:"))
+#sum = 0
+#for i in range(1, input+1):
+#    sum = sum+i
+#print(sum)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(24)
+#from math import *
+#num1 = int(input("enter num1:"))
+#num2 = int(input("enter num2:"))
+#dev = num1/num2
+#print(f"'{floor(dev)}'\n'{ceil(dev)}'\n'{round(dev)}'")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(25)
+#num1 = int(input("enter num1:"))
+#num2 = int(input("enter num2:"))
+#if num1 == num2:
+#    print("YES")
+#else:
+#    print("NO Y EALLA")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(26)
+#num1 = input("enter num1:")
+#num2 = input("enter num2:")
+#print(f"{max(num1)}\n{min(num2)}")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(27)
+#def multi(x, y, z, w):
+#    b = int(x*y*z*w)
+#    a = str(b)
+#    return (a[-2:])
+#print(multi(3, 9, 9, 9))
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(28)another solving of (27)
+#def multi(x, y, z, w):
+#    b = int(x*y*z*w)
+ #   return (b % 100)
+#print(multi(3, 9, 9, 9))
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(29)
+
