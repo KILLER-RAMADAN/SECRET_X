@@ -97,3 +97,14 @@ print(list_body)
 list_body = [x.strip() for x in list_body]
 print(list_body)
 # file after finishing closing by default...
+
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(using dict of regata)
+list = []
+list_body = open("/home/ramadan/Desktop/ahmed ramadan.txt", "r")
+read = list_body.readlines()
+print(read)
+for i in read:
+    list.append(i.strip())
+print(list)
+list_body.close()
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>...
