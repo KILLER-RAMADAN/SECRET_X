@@ -248,3 +248,64 @@
 #    print(f"2.{a}\n3.{b}\n4.{c}\n5.{d}")  
 #multi(1,2,3,4,5,6,7,8,9)
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(32)..
+#import string
+#while True:
+# a=string.ascii_uppercase
+# enter=input("enter char or digits:")
+# if enter.isalpha() and enter in a:
+#    print("ALPHA\nIS CAPITAL")
+# elif enter.isdigit():
+#    print("IS DIGIT")
+# else:
+#    print("ALPHA\nIS SMALL")
+# #ask=input("do you want continue:")
+# if ask=="n":
+#    print("thank you")
+#    break
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.>>.(33)
+#import string
+#while True:
+# b=string.ascii_uppercase
+ #char=str(input("entre char:".upper()).strip())
+# if char in b:
+ #   print(char.lower())
+ #else:
+#    print(char.upper())
+ #ask=input("do you want to repeat this process:")
+# if ask=="n":
+ #   print("thanks")
+#    break
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(34)
+#char = str(input("entre string:"))
+#pal = ""
+#for i in char:
+#    pal = pal+i
+#print(pal[::-1])
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#word = input("enter char:")
+#pal = ""
+#for char in range(len(word)-1, -1, -1):
+#    pal = pal+word[char]
+#print(pal)
+#word_list = []
+#for char in range(len(word)):
+#    word_list.append(word[char])
+#word_list.reverse()
+#print(word_list)
+#if pal == word:
+#    print("is plaind room")
+#else:
+#    print("not a plind room")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#list = []
+#Char = str(input("enter string:"))
+#pal = ""
+#print(Char[::-1])
+#for i in Char:
+#    list.append(i)
+#print(list[::-1])
+#if pal == Char:
+#    print("tha word that you have entered is a palindrome  ")
+#else:
+#    print("tha word that you have entered is  not a palindrome")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(35)
