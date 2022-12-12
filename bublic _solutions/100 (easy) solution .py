@@ -309,3 +309,9 @@
 #else:
 #    print("tha word that you have entered is  not a palindrome")
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(35)
+#num=str(input("enter num :"))
+#n=""
+#for i in range(len(num)):
+# #   n=n+str(i)
+#    print(n)
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>(36)
