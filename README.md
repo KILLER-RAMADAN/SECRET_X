@@ -3,3 +3,5 @@
 hello every one
 [im ahmed ramadan]
 [ python develober ]
+https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/
+https://www.youtube.com/channel/UCtahze-fgmITrOygH-iGDmA
