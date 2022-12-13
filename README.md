@@ -4,8 +4,8 @@
 hello every one
 [im ahmed ramadan]
 [ python develober ]
-https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/
-https://www.youtube.com/channel/UCtahze-fgmITrOygH-iGDmA
+ youtupe:https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/
+linkidin:https://www.youtube.com/channel/UCtahze-fgmITrOygH-iGDmA
 
-![download](https://www.youtube.com/channel/UCtahze-fgmITrOygH-iGDmA/90656786/207219858-b86d6990-2df7-41e2-8e11-95076870ca10.png)
+
 
