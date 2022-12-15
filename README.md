@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ahmedramadan5452332@gmail.com**
 
-- ⚡ Fun fact **(python is funny laguage)**
+- ⚡ Fun fact **<python is funny laguage>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
