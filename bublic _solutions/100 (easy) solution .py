@@ -350,3 +350,63 @@
 #   n=n+i
 #   print(n)
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.(43) using real char.
+#import string
+#a = string.digits
+#n = ""
+#for i in a:
+#    n = n+str(i)
+#    print(n)
+#    if i == "":
+# #       break
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.another solution for numbers...(44)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+#discount = int(input("enter dis:"))
+#sale = int(input("enter sale:"))
+#calc1 = 1-(discount/100)
+#calc2 = sale/calc1
+#print(f"{calc2:.2f}")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(winter sale)(45)
+#>>>>>>>>>>>>>>>>>>>>>>>.
+# def calc(a,b,c):
+#    if  a%c==0 and b%c==0 :
+#        return("BOTH")
+#    elif a%c==0 and b%c==1:
+#        return("MEMO")
+#    elif a % c == 1 and b % c == 0:
+#        return("MOMO")
+#    else:
+#        return("no one")
+# print(calc(23,23,2))
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(memo and momo codeforces)(46)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>..
+#x = input("enter char:")
+#if x == "z":
+#    print("a")
+#else:
+# x = chr(ord(x)+1)
+# print(x)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(next alpha bet)(47)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#def calc(a, b, c, d):
+#    if a+b*c == d:
+#        return ("YES")
+#    elif a-b+c == d:
+#        return ("YES")
+#    else:
+#        return ("NO")
+#print(calc(2, 2, 1, 1))
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(Ali Baba and Puzzles)(48)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>......
+#p = int(input("enter num 1:"))
+#c = int(input("enter num 2:"))
+#def calc(p, c):
+# n = 0
+# for i in range(p, c+1):
+#     n = n+i
+#     if n > 0:
+#        return ("YES")
+# else:
+#     return ("NO")
+#print(calc(p, c))
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(E. Interval Sweep)(49)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
