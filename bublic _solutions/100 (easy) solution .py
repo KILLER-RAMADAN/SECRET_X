@@ -410,3 +410,17 @@
 #print(calc(p, c))
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(E. Interval Sweep)(49)
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+#import string
+#a=string.ascii_lowercase
+#char=str(input("enter char:"))
+#n=""
+#if char not in a:
+# print("please enter char from A >> Z: ")     
+#e#lse:
+# for i in a:
+#    n=n+i
+#    print(n)
+ #   if i == char:
+#        break
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.(50)
+#>>>>>>>>>>>>>>>>>>>>.
