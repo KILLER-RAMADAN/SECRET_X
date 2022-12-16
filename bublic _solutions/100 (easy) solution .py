@@ -424,3 +424,133 @@
 #        break
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.(50)
 #>>>>>>>>>>>>>>>>>>>>.
+#import string
+#a = string.digits
+#n = ""
+#for i in a:
+#    n = n+str(i)
+#    print(n)
+#    if i == "":
+# #       break
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.another solution for numbers...(51)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+#discount = int(input("enter dis:"))
+#sale = int(input("enter sale:"))
+#calc1 = 1-(discount/100)
+#calc2 = sale/calc1
+#print(f"{calc2:.2f}")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(winter sale)(52)
+#>>>>>>>>>>>>>>>>>>>>>>>.
+# def calc(a,b,c):
+#    if  a%c==0 and b%c==0 :
+#        return("BOTH")
+#    elif a%c==0 and b%c==1:
+#        return("MEMO")
+#    elif a % c == 1 and b % c == 0:
+#        return("MOMO")
+#    else:
+#        return("no one")
+# print(calc(23,23,2))
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(memo and momo codeforces)(53)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>..
+#x = input("enter char:")
+#if x == "z":
+#    print("a")
+#else:
+# x = chr(ord(x)+1)
+# print(x)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(next alpha bet)(54)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#def calc(a, b, c, d):
+#    if a+b*c == d:
+#        return ("YES")
+#    elif a-b+c == d:
+#        return ("YES")
+#    else:
+#        return ("NO")
+#print(calc(2, 2, 1, 1))
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(Ali Baba and Puzzles)(55)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>......
+#p = int(input("enter num 1:"))
+#c = int(input("enter num 2:"))
+#def calc(p, c):
+# n = 0
+# for i in range(p, c+1):
+#     n = n+i
+#     if n > 0:
+#        return ("YES")
+# else:
+#     return ("NO")
+#print(calc(p, c))
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(E. Interval Sweep)(56)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+#a = input("YES")
+#if int(a[1]) % int(a[0]) == 0:
+#    print("YES")
+#elif int(a[0]) % int(a[1]) == 0:
+#    print("YES")
+#else:
+#    print("NO")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(LUCKY NUM)(57)
+#n=int(input("int"))
+#k=int(input("long long"))
+#a#=int(input())
+#def calc(n,k,a):
+#    c=n*k/a
+# #   if c in range(1,10):
+ #       return("int")
+#    elif c>2147483647:
+#        return("long long")
+#    elif c not in range(1,10):
+ #       return("double")
+#print(calc(n,k,a))
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>...(ginus)(58)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>..
+#a = int(input())
+#for i in range(1, a+1):
+#   if i % 2 == 0:
+#       print(i)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(even num)(59)
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>...
+#y = int(input())
+#even = 0
+#odd = 0
+#pos = 0
+#neg = 0
+#for i in range(y):
+#    x = eval(input())
+#    if x > 0:
+#        pos += 1
+#    elif x < 0:
+#        neg += 1
+#    if x % 2 == 0:
+#        even += 1
+#    else:
+#        odd += 1
+#print("Even:", even)
+#print("Odd:", odd)
+#print("Positive:", pos)
+#print("Negative:", neg)
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(C. Even, Odd, Positive and Negative)(60)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#trais = int(input())
+#password = int(input())
+#while password != 1999:
+#    trais -= 1
+#    print("Wrong")
+#    password = int(input())
+#    if trais == 0:
+# #       break
+#else:
+#    print("Correct")
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(D. Fixed Password)(61)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#list = []
+#y = int(input())
+#for i in range(y):
+ #  x = int(input())
+#   list.append(x)
+#print(list)
+#print(max(list))
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(max)(62)
+#>>>>>>>>>>>>>>>>>>>>>.
