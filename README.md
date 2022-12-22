@@ -22,7 +22,7 @@
 <body>
 
 <h2>GMAIL</h2>
-<a href="http://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="https://mail.google.com/mail/u/0/#inbox" height="30" width="40" /></a>
+<a href="http://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://mail.google.com/mail/u/0/#inbox" height="30" width="40" /></a>
 </body>
 </html>
 
