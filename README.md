@@ -15,8 +15,7 @@
 - 👨‍💻 All of my projects are available here
 
 - 📫 HOW TO CONTACT WITH ME 
-- <h3 align="left">GMAIL:</h3>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
+- <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/" height="30" width="40" /></a>
 - ⚡ Fun Fact **IM_ALONE 🙈**
 
 <h3 align="left">Connect with me:</h3>
