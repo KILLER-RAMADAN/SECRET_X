@@ -17,7 +17,16 @@
 - ⚡ Fun Fact **IM_ALONE 🙈**
 
 - 📫 HOW TO CONTACT WITH ME 
-- <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-ar21.svg" alt="vectorlogo.zone">
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Images on Another Server</h2>
+
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
+
+</body>
+</html>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
