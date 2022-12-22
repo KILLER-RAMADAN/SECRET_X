@@ -15,8 +15,7 @@
 - 👨‍💻 All of my projects are available here
 
 - 📫 HOW TO CONTACT WITH ME 
-- <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://mail.google.com/mail/u/0/#inbox" height="30" width="40" /></a>
-</p>
+- <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-          generator/master/src/images/icons/Social/codesandbox.svg" alt="https://mail.google.com/mail/u/0/#inbox" height="30" width="40" /></a>  </p>
 - ⚡ Fun Fact **IM_ALONE 🙈**
 
 <h3 align="left">Connect with me:</h3>
