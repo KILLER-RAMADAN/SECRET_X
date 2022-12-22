@@ -23,7 +23,9 @@
 
 <h2>GMAIL</h2>
 
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-ar21.svg" alt="AHMED RAMADAN" style="width:104px;height:142px;">
+<a href="default.asp">
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-ar21.svg" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
 
 </body>
 </html>
