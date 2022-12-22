@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available here
 
 - 📫 HOW TO CONTACT WITH ME 
-- <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgmail_281769&psig=AOvVaw2jAcmJGZEDYaeTyf1Dapsw&ust=1671770672547000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIi1gJu1jPwCFQAAAAAdAAAAABAQ" alt="GMAIL" height="30" width="40" /></a>
+- <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="" alt="GMAIL" height="30" width="40" /></a>
 - ⚡ Fun Fact **IM_ALONE 🙈**
 
 <h3 align="left">Connect with me:</h3>
