@@ -18,9 +18,7 @@
 
 - 📫 HOW TO CONTACT WITH ME 
 - <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-ar21.svg" alt="https://mail.google.com/mail/u/0/#inbox" height="30" width="40" /></a>
-</p>
-p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-</p>
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
