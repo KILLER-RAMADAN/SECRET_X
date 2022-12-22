@@ -22,7 +22,7 @@
 <body>
 
 <h2>GMAIL</h2>
-<a href="https://mail.google.com/mail/u/0/#inbox" alt="AHMED RAMADAN"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" alt="AHMED RAMADAN" /></a>
 </body>
 </html>
 
