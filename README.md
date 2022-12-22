@@ -22,7 +22,7 @@
 <body>
 
 <h2>GMAIL</h2>
-href=mailto:<nowiki>agentavery@sample.com?subject="https://mail.google.com/mail/u/0/#inbox">Click here to send us an email!!!</a>
+<a href="http://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://mail.google.com/mail/u/0/#inbox" height="30" width="40" /></a>
 </body>
 </html>
 
