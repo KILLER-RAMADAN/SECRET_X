@@ -23,7 +23,7 @@
 
 <h2>GMAIL</h2>
 
-<a href="default.asp">
+<a href="https://mail.google.com/mail/u/0/#inbox">
   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-ar21.svg" alt="HTML tutorial" style="width:42px;height:42px;">
 </a>
 
