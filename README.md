@@ -12,9 +12,11 @@
   
 - 💬 ASK ME
 
-- 👨‍💻 All of my projects are available at [https://github.com/KILLER-RAMADAN/SECRET_X](https://github.com/KILLER-RAMADAN/SECRET_X)
+- 👨‍💻 All of my projects are available here
 
-- 📫 HOW TO CONTACT WITH ME **ahmedramadan5452332@gmail.com**
+- 📫 HOW TO CONTACT WITH ME <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
 
 - ⚡ Fun Fact **IM_ALONE 🙈**
 
