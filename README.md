@@ -16,7 +16,6 @@
 
 - 📫 HOW TO CONTACT WITH ME 
 - <h3 align="left">GMAIL:</h3>
-  <p align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
 - ⚡ Fun Fact **IM_ALONE 🙈**
 
