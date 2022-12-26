@@ -15,6 +15,6 @@ for row in results:
     print(f"User_ID => {row[0]},", end=" ")
     print(f"Username => {row[1]}", end=" => ")
     print(f"human_number=>{row[2]}")
-#print(f"your databse has {len(results)} rows.")
+print(f"your databse has {len(results)} rows.")
 database.commit()
 database.close()
