@@ -617,3 +617,46 @@
 #  return {"name": dictionary['name'], "top_note": top_note}
 #print(top_note({"name": "Max", "notes": [1, 4, 6]}))
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(69)(Get Students with Names and Top Notes)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#from curses.ascii import isalpha
+#import string
+#a=string.ascii_lowercase
+#char=str(input("enter char:"))
+#for ch in a:
+#    if ch ==char:
+#        x=chr(ord(ch)+1)
+#        print(x)
+ #       break#
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.(70)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#while True:
+ #import string
+ #all_char=string.ascii_lowercase
+ #space=""
+ #choose=str(input("entre char :"))
+ #for char in all_char:
+ #   space=space+char
+ #   print(space)
+ #   if char==choose:
+  #      break
+ #ask=input("do you want go on: ") 
+ #if ask=="y":
+ #    continue
+ #else:
+ #    break  
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.(71)
+#mail=str(input("enter meil:"))
+#password=input("enter your pass:")
+#print("#"*50)
+#for i in mail:
+#    if i.isalpha():
+ #       print(i.replace(i,"*"),end="")
+  #  elif i.isdigit():
+  #      print(i,end="")
+ #   else:
+ #       print(i,end="")
+#print(" =>your mail")
+#for i in password:
+ #   print(i.replace(i,"*"),end="")
+#print(" =>your password")
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(72)(password script)
