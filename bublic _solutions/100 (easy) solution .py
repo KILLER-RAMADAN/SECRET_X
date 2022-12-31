@@ -660,3 +660,24 @@
  #   print(i.replace(i,"*"),end="")
 #print(" =>your password")
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(72)(password script)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+#while True:
+ #import string
+# a=string.ascii_lowercase
+# chr=str(input("enter char please:"))
+ #if chr not in a:
+#     print(f"please enter lower_case_char:[{chr.lower()}]")
+#     continue
+ #space=""
+# for c in a:
+#    space=space+c
+#    print(space)
+ #   if c==chr:
+ #    break
+ #ask=input("do you want to again this process:")
+ #if ask =="n" or ask=="N":
+ #    print("thanks for using program")
+ #    break
+# elif ask =="y" or ask=="Y":
+  #   continue
+ #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>(73)
